@@ -1,7 +1,7 @@
 {
   "name": "fecoderetreat",
   "version": "1.0.0",
-  "description": "Example Package for FE Code Retreat",
+  "description": "Testing Workspace for CodeRetreat",
   "main": "index.js",
   "scripts": {
     "serve": "eslint ./js/*.js && karma start",
